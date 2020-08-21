@@ -19,3 +19,9 @@
 ### Currently working on:
 * Social Distancing Detector in app integration with OpenCV
 * Rasa Chatbot integration with android application
+## Connect Us on
+* Dishant
+<br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-gandhi/)
+[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dishant_733/)
+* Rutvi:
+<br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutvi-rajesh-5baa641a4/)
