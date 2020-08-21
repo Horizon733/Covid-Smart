@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Covid Smart</string>
+    <string name="camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="category_covid_bot">Covid Bot</string>
+    <string name="category_detector">Mask Detector</string>
+    <string name="hello_blank_fragment">"Hello "</string>
+    <string name="category_social_distancing">"Social Distancing "</string>
+    <string name="opencv_in_progress">Detector building in progress...</string>
+    <string name="server_not_found">Sorry, Server not found..</string>
+</resources>
