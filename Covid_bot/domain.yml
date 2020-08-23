@@ -1,0 +1,59 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - bot_challenge
+  - corona_safety
+  - corona_cases_info
+entities:
+  - state
+  - country
+responses:
+  utter_greet:
+  - text: "Hi,there"
+  - text: "Hello"
+  - text: "Hi, how can I help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+  utter_safety:
+  - text: "COVID-19 affects different people in different ways. \nMost infected people will develop mild to moderate illness and recover without hospitalization.
+           \n \u2022 Most common symptoms:
+           \n \u2022 fever
+           \n \u2022 dry cough
+           \n \u2022 tiredness
+           \nLess common symptoms:
+           \n\u2022 aches and pains
+           \n\u2022 sore throat
+           \n\u2022 diarrhoea
+           \n\u2022 conjunctivitis
+           \n\u2022 headache
+           \n\u2022 loss of taste or smell
+           \n\u2022 a rash on skin, or discolouration of fingers or toes
+           \nSerious symptoms:
+           \n\u2022 difficulty breathing or shortness of breath
+           \n\u2022 chest pain or pressure
+           \n\u2022 loss of speech or movement
+           \nSeek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility.
+           \nPeople with mild symptoms who are otherwise healthy should manage their symptoms at home.
+           \nOn average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+actions:
+- utter_greet
+- utter_happy
+- utter_goodbye
+- corona_cases_action
+
+
