@@ -19,6 +19,11 @@
 ### Currently working on:
 * Social Distancing Detector in app integration with OpenCV
 * Rasa Chatbot integration with android application
+## technologies used:
+* Java
+* Python
+* Rasa
+* Tensorflow
 ## Connect Us on
 * Dishant
 <br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishant-gandhi/)
