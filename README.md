@@ -1,12 +1,14 @@
+## Covid Smart
+
+### Hello, Flocks 👋
+### This Project was part of Virtual Hacks 2020 Hackathon Project on DevPost
+
 [![Github License](https://img.shields.io/github/license/horizon733/covid-smart?style=for-the-badge)](LICENSE)
 ![Issues](https://img.shields.io/github/issues/horizon733/covid-smart?style=for-the-badge)
 [![Contributors](https://img.shields.io/github/contributors/horizon733/covid-smart?style=for-the-badge)](#contributors-)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
-
-## Hello, Flocks 👋
-## This Project was part of Virtual Hacks 2020 Hackathon Project on DevPost
 
 ### Overlook
 * This project is an idea to help everyone with:
